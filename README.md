@@ -25,7 +25,7 @@
 - 임풋 데이터와 응용어플리케이션의 묶음으로 task가 생겨난다.
 - task 개수를 많이 아는게 중요하며 그 task를 활용하여 어떤 서비스를 만드는지가 더 중요.
 - input + backbone + head 의 구조를 가진다.
-
+- <a href="paperswithcode.com">paperswithcode.com</a>
 
 
 
