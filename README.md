@@ -27,5 +27,8 @@
 - input + backbone + head 의 구조를 가진다.
 - <a href="paperswithcode.com">paperswithcode.com</a>
 
+### 신경망의 동작 원리 이해
+- 입력 - 처리 - 출력
+- 출력의 정답지에 오차를 줄이기 위해 상수를 변화하는게 학습
 
 
